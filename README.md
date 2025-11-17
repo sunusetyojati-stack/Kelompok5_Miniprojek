@@ -10,3 +10,4 @@ Tugas Daspem
 Dream in Logic, Live in Syntax
 Semangat Guyss
 hehe
+isi hidup mu dengan coding 
